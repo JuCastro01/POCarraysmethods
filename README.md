@@ -3,22 +3,21 @@
 ##Definição:
 Methods/métodos são funções integradas ao JavaScript que podemos aplicar aos nossos arrays (Spreads na verdade é um operador).
 
-- sort()
-
+- sort():
 Esse método é usado para ordenar os elementos de um array in-place (ou seja, modifica o array original). Por padrão, ele ordena os elementos como strings.
 
-- map()
+- map():
 Sua função é criar um novo array com os resultados da chamada de uma função fornecida em cada elemento do array original. Não modifica o array original.
 
-- reduce()
+- reduce():
 Aplica uma função a um acumulador e a cada valor do array (da esquerda para a direita) para reduzi-lo a um único valor.
 
-- filter()
+- filter():
 Serve para criar um novo array com todos os elementos que passam em um teste (uma função fornecida). Não modifica o array original.
 
-- spread (operador de espalhamento)
-
+- spread (operador de espalhamento):
 O operador spread (...) é usado para expandir elementos de um array ou propriedades de um objeto. É frequentemente usado para criar cópias de arrays/objetos ou para combinar arrays/objetos.
+
 
 ## 🔧 Execução:
 
