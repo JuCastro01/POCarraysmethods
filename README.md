@@ -1,6 +1,7 @@
 # POCarraysmethods
 
 ##Definição:
+
 Methods/métodos são funções integradas ao JavaScript que podemos aplicar aos nossos arrays (Spreads na verdade é um operador).
 
 - sort():
